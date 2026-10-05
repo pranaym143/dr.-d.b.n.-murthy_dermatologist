@@ -1,0 +1,8 @@
+{
+  "name": "Dr. D.B.N. Murthy — Dermatologist",
+  "description": "Dr. D.B.N. Murthy is a dermatologist in Jubilee Hills, Hyderabad, providing professional consultation for skin-related concerns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
